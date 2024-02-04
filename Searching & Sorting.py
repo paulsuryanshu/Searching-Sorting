@@ -37,6 +37,9 @@ def main():
 if __name__ == "__main__":
   main()
 
+**    Linear Search **
+
+    
 from array import*
 
 def linear_search(arr,ele,n):
